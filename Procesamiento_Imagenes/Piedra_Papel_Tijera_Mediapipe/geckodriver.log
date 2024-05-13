@@ -1,0 +1,800 @@
+1710175095852	geckodriver	INFO	Listening on 127.0.0.1:64151
+1710175098912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileLqENcn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710175099194	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710175099297	Marionette	INFO	Listening on port 64162
+Read port: 64162
+1710175099451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 7487 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710175129214	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript error: https://supermarioplay.com/game/ui.js?v=4.3.5, line 14: TypeError: game_iframe.contentDocument.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 480: Script terminated by timeout at:
+aa.Fh@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:480:89
+get@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:87
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:412
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 46: Script terminated by timeout at:
+Sa/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:578
+Sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:552
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:419
+Ei/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:161:292
+n.Jd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:425
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:439
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Bf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Bf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Dh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:144:516
+Qa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Dh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:144:525
+n.Jd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:425
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:439
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Sd.prototype.ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:172
+Cd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1054
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Vd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:671
+
+1710175439124	Marionette	INFO	Stopped listening on port 64162
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710175708689	geckodriver	INFO	Listening on 127.0.0.1:64479
+1710175711715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileOg3kS3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710175711989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710175712087	Marionette	INFO	Listening on port 64490
+Read port: 64490
+1710175712245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710175742009	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 10016, MediaDecoderStateMachine #1] WARNING: 1b1e6c5a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 10016, MediaDecoderStateMachine #1] WARNING: 1b1ee1e4790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 10016, MediaDecoderStateMachine #1] WARNING: 1b1ee1e48a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 10016, MediaDecoderStateMachine #1] WARNING: 1b1ee1e4790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 10016, MediaDecoderStateMachine #1] WARNING: 1b1e6c5a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 194: Script terminated by timeout at:
+K@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:194:580
+Zg@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:197:1014
+Og/c<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:196:184
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:147:976
+eb@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:130:576
+I@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:147:1235
+$d@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:167:279
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:147:976
+eb@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:130:576
+db@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:130:375
+Jd@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:161:73
+Od@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:164:137
+Qd@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:163:73
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:147:976
+eb@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:130:576
+db@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:130:375
+Td/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:166:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:147:976
+VH/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:534:486
+gr@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:361:231
+aa.dn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:522:466
+aa.bn/</<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:133
+il@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:282:26
+wl@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:284:123
+aa.bn/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:119
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:381:169
+ct@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:382:269
+aa.bn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:105
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:527:914
+um@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:291:298
+tm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:294:266
+tm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:292:207
+mm@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:289:636
+nH/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:528:178
+aa.Yk/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:479:126
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:420
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710175790203	Marionette	INFO	Stopped listening on port 64490
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710175870063	geckodriver	INFO	Listening on 127.0.0.1:64581
+1710175873091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilenfW2pn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710175873362	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710175873459	Marionette	INFO	Listening on port 64591
+Read port: 64591
+1710175873620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17396, MediaDecoderStateMachine #1] WARNING: 2ca035d3890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 17396, MediaDecoderStateMachine #1] WARNING: 2ca035d3780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 17396, MediaDecoderStateMachine #1] WARNING: 2ca035d3670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710175903377	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 17396, MediaDecoderStateMachine #1] WARNING: 2ca035d3560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 17396, MediaDecoderStateMachine #1] WARNING: 2ca035d3670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
+aa.dn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:510:171
+aa.bn/</<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:133
+il@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:282:26
+wl@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:284:123
+aa.bn/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:119
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:381:169
+ct@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:382:269
+aa.bn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:105
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:527:914
+um@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:291:298
+tm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:294:266
+tm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:292:207
+mm@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:289:636
+nH/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:528:178
+aa.Yk/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:479:126
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:420
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710175934250	Marionette	INFO	Stopped listening on port 64591
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710175994680	geckodriver	INFO	Listening on 127.0.0.1:64676
+1710175997728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileq7Muew"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710175998001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710175998119	Marionette	INFO	Listening on port 64686
+Read port: 64686
+1710175998285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 4090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3704, MediaDecoderStateMachine #1] WARNING: 1d54ff07230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 3704, MediaDecoderStateMachine #1] WARNING: 1d54275a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 3704, MediaDecoderStateMachine #1] WARNING: 1d54275a010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176028014	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 3704, MediaDecoderStateMachine #1] WARNING: 1d54275a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 480: Script terminated by timeout at:
+aa.Fh@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:480:89
+get@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:87
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:412
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 79: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/manageJavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710176047881	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1710176048870	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1710176071402	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 260: Script terminated by timeout at:
+Ho/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:260:1043
+ge.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:104:1176
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+n.ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:98:135
+Dd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1342
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+ag.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:152
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+ug.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:125:115
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Bf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Ei/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:161:320
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ra.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+Ei/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:161:292
+n.Jd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:425
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:439
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Bf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Bf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+sd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:601
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Dh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:144:516
+Qa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Dh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:144:525
+n.Jd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:425
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:439
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Sd.prototype.ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:172
+Cd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1054
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:859
+Vd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:671
+
+1710176076474	Marionette	INFO	Stopped listening on port 64764
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710176248204	geckodriver	INFO	Listening on 127.0.0.1:64858
+1710176251249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileokAPVV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176251521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176251628	Marionette	INFO	Listening on port 64868
+Read port: 64868
+1710176251786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 4275 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710176257957	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1710176257975	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1710176258527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 15852, MediaDecoderStateMachine #1] WARNING: 1e04261b560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 15852, MediaDecoderStateMachine #1] WARNING: 1e04261bef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 15852, MediaDecoderStateMachine #1] WARNING: 1e034e5a010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176281537	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176285313	Marionette	INFO	Stopped listening on port 64868
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+upkeep@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:229773
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710176290714	geckodriver	INFO	Listening on 127.0.0.1:64944
+1710176293782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilerD816E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176294053	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176294153	Marionette	INFO	Listening on port 64955
+Read port: 64955
+1710176294310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 5107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14928, MediaDecoderStateMachine #1] WARNING: 1e3d3b96230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 14928, MediaDecoderStateMachine #1] WARNING: 1e3c635a010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176324074	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176338123	Marionette	INFO	Stopped listening on port 64955
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710176369124	geckodriver	INFO	Listening on 127.0.0.1:65028
+1710176372169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileoB0RHF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176372440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176372539	Marionette	INFO	Listening on port 65039
+Read port: 65039
+1710176372694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KWAUkR2X_3396iiuIOVJJ1s4v9_BCXHf9116__MAGIw.js line 2 > eval line 5851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KWAUkR2X_3396iiuIOVJJ1s4v9_BCXHf9116__MAGIw.js line 2 > eval line 240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KWAUkR2X_3396iiuIOVJJ1s4v9_BCXHf9116__MAGIw.js line 2 > eval line 2761 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 127: Script terminated by timeout at:
+Ra@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:127:437
+Cl@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:284:551
+mm@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:289:613
+nH/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:528:178
+aa.Yk/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:479:126
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:420
+
+1710176398131	Marionette	INFO	Stopped listening on port 65039
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710176441845	geckodriver	INFO	Listening on 127.0.0.1:65191
+1710176444910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofile2RiAAk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176445179	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176445277	Marionette	INFO	Listening on port 65201
+Read port: 65201
+1710176445430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 5086 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710176471781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1710176475200	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176525622	Marionette	INFO	Stopped listening on port 65201
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710176548712	geckodriver	INFO	Listening on 127.0.0.1:65278
+1710176551748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileiad48t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176552031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176552130	Marionette	INFO	Listening on port 65288
+Read port: 65288
+1710176552284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 4843 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 18088, MediaDecoderStateMachine #1] WARNING: 271e1853670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 18088, MediaDecoderStateMachine #1] WARNING: 271d345a010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176582055	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176595854	Marionette	INFO	Stopped listening on port 65288
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710176618959	geckodriver	INFO	Listening on 127.0.0.1:65362
+1710176622000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilesOrAOK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176622274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176622379	Marionette	INFO	Listening on port 65372
+Read port: 65372
+1710176622537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 6529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12832, MediaDecoderStateMachine #1] WARNING: 1ce36b5a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 12832, MediaDecoderStateMachine #1] WARNING: 1ce3c4808a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176644010	Marionette	INFO	Stopped listening on port 65372
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710176682543	geckodriver	INFO	Listening on 127.0.0.1:65434
+1710176685618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileDVkNps"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176685887	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176685992	Marionette	INFO	Listening on port 65444
+Read port: 65444
+1710176686153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 3813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9232, MediaDecoderStateMachine #1] WARNING: 1896c75cab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 9232, MediaDecoderStateMachine #1] WARNING: 1896c75c340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176715908	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176717809	Marionette	INFO	Stopped listening on port 65444
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710176838301	geckodriver	INFO	Listening on 127.0.0.1:65530
+1710176841364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilehPv55C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710176841643	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710176841747	Marionette	INFO	Listening on port 49157
+Read port: 49157
+1710176841907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 4068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12620, MediaDecoderStateMachine #1] WARNING: 28e1671fbc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 12620, MediaDecoderStateMachine #1] WARNING: 28e08d5a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710176871665	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710176886875	Marionette	INFO	Stopped listening on port 49157
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710177055524	geckodriver	INFO	Listening on 127.0.0.1:49234
+1710177058583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilefu96KI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177058867	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177058966	Marionette	INFO	Listening on port 49244
+Read port: 49244
+1710177059127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 3924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177088890	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710177092598	Marionette	INFO	Stopped listening on port 49244
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+upkeep@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:229773
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710177134098	geckodriver	INFO	Listening on 127.0.0.1:49312
+1710177137116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofile8SiAij"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177137390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177137487	Marionette	INFO	Listening on port 49324
+Read port: 49324
+1710177137639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 524 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KWAUkR2X_3396iiuIOVJJ1s4v9_BCXHf9116__MAGIw.js line 2 > eval line 3198 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KWAUkR2X_3396iiuIOVJJ1s4v9_BCXHf9116__MAGIw.js line 2 > eval line 4371 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177155904	Marionette	INFO	Stopped listening on port 49324
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+JavaScript warning: https://s1.adform.net/stoat/631/s1.adform.net/load/v/0.0.240/e/2gBBwADA/i/vCAX-BAAAAACgAA/r:AdConstructor:contents/HTML:types/Standard, line 16: Script terminated by timeout at:
+e.bind/<@https://s1.adform.net/stoat/631/s1.adform.net/load/v/0.0.240/e/2gBBwADA/i/vCAX-BAAAAACgAA/r:AdConstructor:contents/HTML:types/Standard:16:317
+
+Dynamically enable window occlusion 1
+1710177190923	geckodriver	INFO	Listening on 127.0.0.1:49404
+1710177194007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilehmwJJx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177194280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177194379	Marionette	INFO	Listening on port 49414
+Read port: 49414
+1710177194535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 5126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 18460, MediaDecoderStateMachine #1] WARNING: 26c90e0f340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+[Child 18460, MediaDecoderStateMachine #1] WARNING: 26c90e0f670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+1710177224300	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710177255670	Marionette	INFO	Stopped listening on port 49414
+JavaScript warning: https://supermarioplay.com/game/all.js?v=2.0.0.15, line 1: Script terminated by timeout at:
+x/this.tickFunction@https://supermarioplay.com/game/all.js?v=2.0.0.15:1:246203
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1710177737782	geckodriver	INFO	Listening on 127.0.0.1:49793
+1710177740840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofiledP06G0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177741116	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177741219	Marionette	INFO	Listening on port 49804
+Read port: 49804
+1710177741371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177748617	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c, line 256: Script terminated by timeout at:
+oj@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:256:118
+aa.dn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:512:142
+aa.bn/</<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:133
+il@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:282:26
+wl@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:284:123
+aa.bn/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:119
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:381:169
+ct@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:382:269
+aa.bn@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:509:105
+c@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:527:914
+um@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:291:298
+tm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:294:266
+tm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:292:207
+mm@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:289:636
+nH/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:528:178
+aa.Yk/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:479:126
+aa.Yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J9S3C5L3BG&l=dataLayer&cx=c:478:420
+
+1710177751567	Marionette	INFO	Stopped listening on port 49804
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710177785996	geckodriver	INFO	Listening on 127.0.0.1:49895
+1710177789025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofile6PCPmX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177789294	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177789396	Marionette	INFO	Listening on port 49905
+Read port: 49905
+1710177789550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 5318 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177819311	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710177820784	Marionette	INFO	Stopped listening on port 49905
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/language-dictionaries getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1710177856730	geckodriver	INFO	Listening on 127.0.0.1:49999
+1710177859783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileeh3TAH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177860054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177860160	Marionette	INFO	Listening on port 50069
+Read port: 50069
+1710177860320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 5108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177890073	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710177900421	Marionette	INFO	Stopped listening on port 50069
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710177905672	geckodriver	INFO	Listening on 127.0.0.1:50133
+1710177908730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofile7uEBml"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710177909005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710177909111	Marionette	INFO	Listening on port 50143
+Read port: 50143
+1710177909264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 2129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710177939021	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710177997225	Marionette	INFO	Stopped listening on port 50143
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710178000826	geckodriver	INFO	Listening on 127.0.0.1:50242
+1710178003870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilejapYTg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710178004159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710178004263	Marionette	INFO	Listening on port 50252
+Read port: 50252
+1710178004421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 7499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710178019441	Marionette	INFO	Stopped listening on port 50252
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710178025119	geckodriver	INFO	Listening on 127.0.0.1:50306
+1710178028186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofileiOjyTI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710178028453	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710178028557	Marionette	INFO	Listening on port 50316
+Read port: 50316
+1710178028717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 2113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710178058467	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710178201466	Marionette	INFO	Stopped listening on port 50316
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1710178306120	geckodriver	INFO	Listening on 127.0.0.1:50580
+1710178309188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofilemm99NA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710178309464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710178309568	Marionette	INFO	Listening on port 50590
+Read port: 50590
+1710178309719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710178339483	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 79: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:842
+Vd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:671
+
+1710178511176	Marionette	INFO	Stopped listening on port 50590
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Exiting due to channel error.
+Exiting due to channel error.
+1710178521938	geckodriver	INFO	Listening on 127.0.0.1:50801
+1710178524971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DAVID~1.FER\\AppData\\Local\\Temp\\rust_mozprofile9G6Ytn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710178525252	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710178525351	Marionette	INFO	Listening on port 50811
+Read port: 50811
+1710178525507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 4762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710178555270	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710178718922	Marionette	INFO	Stopped listening on port 50811
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
