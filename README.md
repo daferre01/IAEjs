@@ -25,7 +25,7 @@ Cada carpeta contiene ejemplos de código, recursos de lectura y posiblemente da
 
 ## Créditos
 
-Este repositorio fue creado por [Tu Nombre].
+Este repositorio fue creado por David Fernández Reboredo.
 
 ## Licencia
 
